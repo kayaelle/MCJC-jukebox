@@ -8,74 +8,89 @@ sound-clips:
     people:
       - name: Fred Battle
         clips: 
-          - title: May Day
+          - id: A1
+            title: May Day
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: TBD
+          - id: A2
+            title: TBD
             file: EsphurFosterMayDay.mp3
       - name: Esphur Foster
         clips: 
-          - title: May Day
+          - id: B1
+            title: May Day
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: Nothing Without Our History
+          - id: B2
+            title: Nothing Without Our History
             file: EsphurFosterMayDay.mp3
   - theme: Jackson Center
     people:
-      - name: MRS. MARIAN CHEEK JACKSON
+      - name: Mrs. Marian Cheek Jackson
         clips: 
-          - title: WITHOUT THE PAST WE HAVE NO FUTURE
+          - id: A3
+            title: Without the past we have no future
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: TBD
+          - id: A4
+            title: TBD
             file: EsphurFosterMayDay.mp3
-      - name: REVEREND TROY HARRISON
+      - name: Reverend Troy Harrison
         clips: 
-          - title: FAITH BUILT THIS COMMUNITY
+          - id: B3
+            title: Faith Built This Community
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: TBD
+          - id: B4
+            title: TBD
             file: EsphurFosterMayDay.mp3
   - theme: Builders
     people:
-      - name: MINISTER ROBERT CAMPBELL
+      - name: Minister Robert Campbell
         clips: 
-          - title: COMMUNITY OF BLACK BUILDERS
+          - id: A5
+            title: Community of Black Builders
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: "TEACHING OTHERS"
+          - id: A6
+            title: Teaching Others
             file: EsphurFosterMayDay.mp3
-      - name: EUGENE FARRAR
+      - name: Eugene Farrar
         clips: 
-          - title: WE HAVE TO TELL IT
+          - id: B5
+            title: We Have to tell it
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: "UNC ROCK WORK"
+          - id: B6
+            title: UNC Rock WOrk
             file: EsphurFosterMayDay.mp3
   - theme: Teachers
     people:
-      - name: EUZELLE & R.D. SMITH
+      - name: Euzelle & R.D. Smith
         clips: 
-          - title: TBD
+          - id: A7
+            title: TBD
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: TBD
+          - id: A8
+            title: TBD
             file: EsphurFosterMayDay.mp3
-      - name: VALERIE FOUSHEE
+      - name: Valerie Foushee
         clips: 
-          - title: SEGREGATED ELEMENTARY SCHOOL
+          - id: B7
+            title: Segregated Elementary School
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: "RACE RELATIONS AFTER DESEGREGATION"
+          - id: B8
+            title: Race Relations After Desegragation
             file: EsphurFosterMayDay.mp3
   - theme: Faith
     people:
-      - name: PAT JACKSON
+      - name: Pat Jackson
         clips: 
-          - title: TBD
+          - id: A9
+            title: TBD
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: FIRE HOSE
+          - id: A10
+            title: Fire Hose
             file: EsphurFosterMayDay.mp3
-      - name: ARMINTA FOUSHEE
+      - name: Arminta Foushee
         clips: 
-          - title: ON BLACK CHURCHES
+          - id: B9
+            title: O9 Black Churches
             file: Clip_Battle_Fred_SOHP_0101_01.mp3
-          - title: TBD
+          - id: B10
+            title: TBD
             file: EsphurFosterMayDay.mp3
-
-
-
-
-
