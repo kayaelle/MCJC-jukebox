@@ -1,0 +1,81 @@
+#List of sound clips the juke box plays
+#themes: May Day, Jackson Center, Builders, Teachers, Faith
+#Each theme has two persons. Each person has two clips
+#See index.md for layout
+
+sound-clips:
+  - theme: May Day
+    people:
+      - name: Fred Battle
+        clips: 
+          - title: May Day
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: TBD
+            file: EsphurFosterMayDay.mp3
+      - name: Esphur Foster
+        clips: 
+          - title: May Day
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: Nothing Without Our History
+            file: EsphurFosterMayDay.mp3
+  - theme: Jackson Center
+    people:
+      - name: MRS. MARIAN CHEEK JACKSON
+        clips: 
+          - title: WITHOUT THE PAST WE HAVE NO FUTURE
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: TBD
+            file: EsphurFosterMayDay.mp3
+      - name: REVEREND TROY HARRISON
+        clips: 
+          - title: FAITH BUILT THIS COMMUNITY
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: TBD
+            file: EsphurFosterMayDay.mp3
+  - theme: Builders
+    people:
+      - name: MINISTER ROBERT CAMPBELL
+        clips: 
+          - title: COMMUNITY OF BLACK BUILDERS
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: "TEACHING OTHERS"
+            file: EsphurFosterMayDay.mp3
+      - name: EUGENE FARRAR
+        clips: 
+          - title: WE HAVE TO TELL IT
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: "UNC ROCK WORK"
+            file: EsphurFosterMayDay.mp3
+  - theme: Teachers
+    people:
+      - name: EUZELLE & R.D. SMITH
+        clips: 
+          - title: TBD
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: TBD
+            file: EsphurFosterMayDay.mp3
+      - name: VALERIE FOUSHEE
+        clips: 
+          - title: SEGREGATED ELEMENTARY SCHOOL
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: "RACE RELATIONS AFTER DESEGREGATION"
+            file: EsphurFosterMayDay.mp3
+  - theme: Faith
+    people:
+      - name: PAT JACKSON
+        clips: 
+          - title: TBD
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: FIRE HOSE
+            file: EsphurFosterMayDay.mp3
+      - name: ARMINTA FOUSHEE
+        clips: 
+          - title: ON BLACK CHURCHES
+            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+          - title: TBD
+            file: EsphurFosterMayDay.mp3
+
+
+
+
+
