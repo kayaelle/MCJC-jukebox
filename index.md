@@ -13,7 +13,7 @@ title: Marian Cheek Jackson Center Sound Clip Juke Box
 							<div class="row" style="height:70px;">						
 								{% if clip.id contains "A" %}							
 									<div class="col-2">
-										<button class="btn btn-lg" onclick="this.firstChild.play()"><audio src="../clips/{{ clip.file }}"></audio>{{ clip.id }}</button>
+										<button class="btn btn-lg" onclick="this.firstChild.play()"><audio src="./clips/{{ clip.file }}"></audio>{{ clip.id }}</button>
 									</div>
 									<div class="col-sm-10 {% if forloop.first == true %}top-border{% else %}bottom-border{% endif %}">
 										<div class="song-name">"{{ clip.title }}"</div>
@@ -29,7 +29,7 @@ title: Marian Cheek Jackson Center Sound Clip Juke Box
 										{% endif %}
 									</div>
 									<div class="col-2">
-										<button class="btn btn-lg"  onclick="this.firstChild.play()"><audio src="../clips/{{ clip.file }}"></audio>{{ clip.id }}</button>
+										<button class="btn btn-lg"  onclick="this.firstChild.play()"><audio src="./clips/{{ clip.file }}"></audio>{{ clip.id }}</button>
 									</div>
 								{% endif %}
 							</div>
