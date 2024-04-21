@@ -10,87 +10,87 @@ sound-clips:
         clips: 
           - id: A1
             title: May Day
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: A1_FredBattle_MayDay.mp3
           - id: A2
-            title: TBD
-            file: EsphurFosterMayDay.mp3
+            title: Teachers Motivating Students
+            file: A2_FredBattle_TeachersMotivatingStudents.mp3
       - name: Esphur Foster
         clips: 
           - id: B1
             title: May Day
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: B1_EsphurFoster_MayDay.mp3
           - id: B2
             title: Nothing Without Our History
-            file: EsphurFosterMayDay.mp3
+            file: B2_EsphurFoster_NothingWithoutOurHistory.mp3
   - theme: Jackson Center
     people:
       - name: Mrs. Marian Cheek Jackson
         clips: 
           - id: A3
-            title: Without the past we have no future
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            title: Jackson Center Efforts
+            file: A3_MrsMarianCheekJackson_JacksonCenterEfforts.mp3
           - id: A4
-            title: TBD
-            file: EsphurFosterMayDay.mp3
+            title: Remembering Chapel Hill
+            file: A4_MrsMarianCheekJackson_RememberingChapelHill.mp3
       - name: Reverend Troy Harrison
         clips: 
           - id: B3
             title: Faith Built This Community
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: B3_ReverendTroyHarrison_FaithBuilt_This_Community.mp3
           - id: B4
-            title: TBD
-            file: EsphurFosterMayDay.mp3
+            title: Struggle Going On
+            file: B4_ReverendTroyHarrison_StruggleGoingOn.mp3
   - theme: Builders
     people:
       - name: Minister Robert Campbell
         clips: 
           - id: A5
             title: Community of Black Builders
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: A5_MinisterRobertCampbell_CommunityOfBlackBuilders.mp3
           - id: A6
             title: Teaching Others
-            file: EsphurFosterMayDay.mp3
+            file: A6_MinisterRobertCampbell_TeachingOthers.mp3
       - name: Eugene Farrar
         clips: 
           - id: B5
             title: We Have to tell it
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: B5_EugeneFarrar_WeHaveToTellIt.mp3
           - id: B6
-            title: UNC Rock WOrk
-            file: EsphurFosterMayDay.mp3
+            title: UNC Rock Work
+            file: B6_EugeneFarrar_UNCRockWork.mp3
   - theme: Teachers
     people:
       - name: Euzelle & R.D. Smith
         clips: 
           - id: A7
-            title: TBD
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            title: Parent Support
+            file: A7_RDandEuzelleSmith_ParentSupport.mp3
           - id: A8
-            title: TBD
-            file: EsphurFosterMayDay.mp3
+            title: Orange County Training School
+            file: A8_RDandEuzelleSmith_OrangeCountyTrainingSchool.mp3
       - name: Valerie Foushee
         clips: 
           - id: B7
             title: Segregated Elementary School
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            file: B7_ValerieFoushee_SegregatedElementarySchool.mp3
           - id: B8
-            title: Race Relations After Desegragation
-            file: EsphurFosterMayDay.mp3
+            title: After Desegragation
+            file: B8_Valerie_Foushee_RaceRelationsAfterDesegregation.mp3
   - theme: Faith
     people:
       - name: Pat Jackson
         clips: 
           - id: A9
-            title: TBD
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            title: Just You and God
+            file: A9_PatJackson_JustYouAndGod.mp3
           - id: A10
             title: Fire Hose
-            file: EsphurFosterMayDay.mp3
+            file: A10_PatJackson_FireHose.mp3
       - name: Arminta Foushee
         clips: 
           - id: B9
-            title: O9 Black Churches
-            file: Clip_Battle_Fred_SOHP_0101_01.mp3
+            title: On Black Churches
+            file: B9_ArmintaFoushee_OnBlackChurches.mp3
           - id: B10
-            title: TBD
-            file: EsphurFosterMayDay.mp3
+            title: Four Churches
+            file: B10_ArmintaFousheeFourChurches.mp3
