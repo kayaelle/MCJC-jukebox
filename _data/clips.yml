@@ -74,7 +74,7 @@ sound-clips:
             title: Segregated Elementary School
             file: B7_ValerieFoushee_SegregatedElementarySchool.mp3
           - id: B8
-            title: After Desegragation
+            title: After Desegregation
             file: B8_Valerie_Foushee_RaceRelationsAfterDesegregation.mp3
   - theme: Faith
     people:
@@ -92,5 +92,5 @@ sound-clips:
             title: On Black Churches
             file: B9_ArmintaFoushee_OnBlackChurches.mp3
           - id: B10
-            title: Four Churches
-            file: B10_ArmintaFousheeFourChurches.mp3
+            title: Bible School
+            file: B10_ArmintaFoushee_BibleSchool.mp3
