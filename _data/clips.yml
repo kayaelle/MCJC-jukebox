@@ -94,3 +94,24 @@ sound-clips:
           - id: B10
             title: Bible School
             file: B10_ArmintaFoushee_BibleSchool.mp3
+
+  - theme: Gospel
+    people:
+      - name: Voices of Joy
+        clips: 
+          - id: A11
+            title: Enter His Gates
+            file: A11_VoicesOfJoy_EnterHisGates.mp3
+          - id: A12
+            title: All My Strength
+            file: A12_VoicesOfJoy_AllMyStrength.mp3
+      - name: Voices of Joy
+        clips: 
+          - id: B11
+            title: Holy Ghost Power
+            file: B11_VoicesOfJoy_HolyGhostPower.mp3
+          - id: B12
+            title: Have to Go By Myself
+            file: B12_VoicesOfJoy_HaveToGoByMyself.mp3
+            
+            
